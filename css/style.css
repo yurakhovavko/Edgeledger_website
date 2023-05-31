@@ -32,7 +32,7 @@ p {
 }
 
 .text-primary {
-  color: #93cb52;
+  color: #35944e;
 }
 
 .bg-light {
@@ -46,7 +46,7 @@ p {
 }
 
 .bg-primary {
-  background: #93cb52;
+  background: #35944e;
   color: #fff;
 }
 
@@ -85,7 +85,7 @@ p {
 }
 
 .btn:hover {
-  background: #7ab436;
+  background: #35944e;
 }
 
 .btn-dark {
@@ -128,7 +128,7 @@ p {
 }
 
 #navbar ul li a:hover {
-  background: #93cb52;
+  background: #35944e;
   border-radius: 5px;
 }
 
@@ -163,7 +163,7 @@ p {
 }
 
 #what .items .item i {
-  background: #93cb52;
+  background: #35944e;
   padding: 1rem;
   border-radius: 50%;
   margin-bottom: 1rem;
