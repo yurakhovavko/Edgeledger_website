@@ -10,6 +10,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.4;
+  background-color: #0D1117;
 }
 
 a {
@@ -37,7 +38,7 @@ p {
 }
 
 .bg-light {
-  background: #f4f4f4;
+  background: #0D1117;
   color: #333;
 }
 
@@ -61,6 +62,7 @@ p {
   font-size: 2rem;
   margin-bottom: 0.75rem;
   line-height: 1.1;
+  color: #fff;
 }
 
 .lead {
@@ -156,6 +158,8 @@ p {
 #what .items {
   display: flex;
   padding: 1rem;
+  color: #fff;
+  
 }
 
 #what .items .item {
@@ -169,6 +173,7 @@ p {
   padding: 1rem;
   border-radius: 50%;
   margin-bottom: 1rem;
+  
 }
 
 /* Section: Who We Are */
