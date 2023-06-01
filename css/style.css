@@ -39,11 +39,11 @@ p {
 
 .bg-light {
   background: #0D1117;
-  color: #333;
+  color: #21262D;
 }
 
 .bg-dark {
-  background: #333;
+  background: #21262D;
   color: #fff;
 }
 
@@ -87,12 +87,9 @@ p {
   border-radius: 5px;
 }
 
-.btn:hover {
-  background: #35944e;
-}
 
 .btn-dark {
-  background: #333;
+  background: #21262D;
   color: #fff;
 }
 
@@ -116,6 +113,7 @@ p {
   justify-content: space-between;
   z-index: 1;
   padding: 1rem;
+  background-color: #21262D;
   
 }
 
@@ -132,7 +130,6 @@ p {
 }
 
 #navbar ul li a:hover {
-  background: #35944e;
   border-radius: 5px;
 }
 
@@ -229,4 +226,3 @@ p {
   display: flex;
   justify-content:center;
 }
-
